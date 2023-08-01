@@ -1,0 +1,1 @@
+This was meant to be an epic mathematician thing but for some reason it bugged on the second input so only pythagorean theorum 1 works and I didn't bother coding in the rest
