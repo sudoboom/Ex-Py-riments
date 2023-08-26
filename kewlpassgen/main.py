@@ -13,8 +13,8 @@ print("------------")
 print("Generating...")
 print("------------")
 
-for x in range(length):
-    pw += random.choice(characters)
+for x in range(length): # Repeats this code (length) times.
+    pw += random.choice(characters) # Adds one random character from the "Characters" list (known as characters) to the "Password" string (known as pw)
 
 
 

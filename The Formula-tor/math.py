@@ -1,3 +1,5 @@
+# This script is broken :(
+
 import math
 print("Welcome to \n FORMULATOR!\n")
 print("Type one of the following numbers:\n1. Pythagorean Theorum Solver\n2. Reverse Pythagorean Theorum\n3. Area of a Circle\n4. Cirumference of a Circle (USING RADIUS)\n5. Circumference of a Circle (USING DIAMETER)")

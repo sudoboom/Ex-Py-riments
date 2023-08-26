@@ -19,11 +19,10 @@ print("Generating...")
 print("------------")
 print("\nPasswords:\n")
 
-while 2 > 1:
-    pw = ''
-    for x in range(length):
-        pw += random.choice(characters)
-
+while 2 > 1: # While 2 is greater than 1; an infinite loop.
+    pw = '' # Resets the password after printing otherwise it'll make a huge garble.
+    for x in range(length): # Repeats for length
+        pw += random.choice(characters) # Random character added to pw string
 
     print(pw)
     time.sleep(wait)
